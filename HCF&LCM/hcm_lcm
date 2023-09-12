@@ -1,0 +1,35 @@
+natural numbers->1,2,3,4,5,_____
+
+whole numbers->0,1,2,3,4,5,_____
+
+prime numbers->numbers has only two factors.
+
+->after 3 prime numbers are in the form of 6n+/-1
+
+rational number->number can be put in form of fraction
+
+Irrational number->number can not put in the form of fraction
+
+complex number->combination of real and imaginary numbers
+
+product of two numbers=product of lcm and hcf
+
+hcm of fraction=hcf of numerator/lcm of denominators.
+
+lcm of fraction=lcm of numerator/hcf of denominators.
+
+HCF->express each number as product of prime numbers.then the product of least powers of common prime numbers is the HCF. 
+
+LCM->express each number as product of prime numbers.then the product of highest powers of common prime numbers id the LCM.
+
+->to find future which is going to happend in same time we have to find lcm of given numbers
+
+->to find largest device to measure with given parameters then find hcf of given parameters
+
+->to find numbers which leaves same remainder when it divides given numbers.then we have to difference between each of given number then we have find hcf to get answer.
+
+->to find a number which leaves given number when it divides given numbers,then we have find lcm of given numbers then we have to add given remainder with the result lcm to get answer
+
+->when different remainder leaves one number when it divides given numbers,then we have subtract given remainder with respective numbers and then we have to find hcf of resulted numbers.
+
+->to reduce number to its lowest form divide numerator and denomirator with the their hcf
