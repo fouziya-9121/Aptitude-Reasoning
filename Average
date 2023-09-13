@@ -1,0 +1,31 @@
+								AVERAGE 
+average=total sum/number of numbers 
+
+ASSUMED AVERAGE 
+
+->assumed average is useful when large numbers given 
+
+average deviation=total deviation/number of numbers
+
+correct average=assumed average+average deviation
+
+->average is going to be same irrespective of assumed average taken 
+
+
+Q)in 9 innings average is x,after 10 th inning average become x+8 in which he scored 100.find average before 10 th inning
+
+=>here 100 has to maintaing average of x+8,and contribute increase of 8 in prevoius 9 innings 
+
+=>100 =x+8+(8*9)
+
+=>x=20
+Q)boy earned an average salary of 4200 per month during his first 11 months in the us.he wants to ensure an annual average income of 5000 per month.what earned in the 12 th month.
+
+ans=12*5000-11*4200 
+   =3200 
+Q)24 students and principle average age is 15.the average age only students is 14.what is the age of principle.
+
+principle age=25*15-24*14 
+            =39 
+
+
